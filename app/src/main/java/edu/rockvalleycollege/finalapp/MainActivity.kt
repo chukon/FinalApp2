@@ -1,6 +1,6 @@
 package edu.rockvalleycollege.finalapp
 //Chuck Konkol
-
+//Comment 2
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
